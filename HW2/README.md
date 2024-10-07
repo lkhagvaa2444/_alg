@@ -9,4 +9,4 @@ Result:
 [2, 1, 0]
 
 
-https://file+.vscode-resource.vscode-cdn.net/Users/lkhagvaa/Desktop/Screen%20Shot%202024-10-07%20at%2019.47.07%20PM.png?version%3D1728301756336
+![Screen Shot 2024-10-07 at 19 47 07 PM](https://github.com/user-attachments/assets/f513c2a0-b264-4e37-be4c-0d49018b51f4)
