@@ -15,8 +15,8 @@ Had little bit ai help to find informations.
 
 # Final
 1. [Homework 1](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
-3. [Homework 2](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
-4. [Homework 3](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
-5. [Homework 4](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
-6. [Homework 5](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
-7. [Homework 6](https://github.com/lkhagvaa2444/_alg/tree/master/HW1) did myself
+3. [Homework 2](https://github.com/lkhagvaa2444/_alg/tree/master/HW2) did myself
+4. [Homework 3](https://github.com/lkhagvaa2444/_alg/tree/master/HW3) did myself
+5. [Homework 4](https://github.com/lkhagvaa2444/_alg/tree/master/HW4) did myself
+6. [Homework 5](https://github.com/lkhagvaa2444/_alg/tree/master/HW5) did myself
+7. [Homework 6](https://github.com/lkhagvaa2444/_alg/tree/master/HW6) did myself
